@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hi, I'm Karlo Jagar
+# Hi, I'm Karlo Jagar 👋
 
 ### DevOps and Platform Engineering | Kubernetes | Terraform | GitOps | Observability
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karlojagar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlojagar/)
 [![GitHub](https://img.shields.io/badge/GitHub-jagarkarlo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jagarkarlo)
-[![Knowledge Base](https://img.shields.io/badge/Project-Copilot%20Knowledge%20Base-2563EB?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/jagarkarlo/copilot-knowledge-base)
 
 </div>
 
@@ -54,8 +53,8 @@ My interests are platform engineering, infrastructure as code, GitOps, monitorin
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [copilot-knowledge-base](https://github.com/jagarkarlo/copilot-knowledge-base) | A local MCP server that keeps durable knowledge in Markdown and provides SQLite full-text search for Copilot. | TypeScript, MCP, SQLite |
-| More projects soon | Public platform engineering, automation, and software projects are in progress. | Kubernetes, Terraform, GitOps |
+| [SDN Security Aspects](https://github.com/jagarkarlo/SDN-security-aspects) | Software-defined networking security lab with ACL enforcement, DDoS detection, OpenFlow control, and a real-time event dashboard. | Python, Ryu, OpenFlow, Mininet, REST API |
+| [Copilot Knowledge Base](https://github.com/jagarkarlo/copilot-knowledge-base) | A local MCP server for durable Markdown knowledge and SQLite full-text retrieval in Copilot workflows. | TypeScript, MCP, SQLite |
 
 ---
 
