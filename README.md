@@ -18,7 +18,7 @@ Master's student in Business Systems Organization with a background in Informati
 
 My interests are platform engineering, infrastructure as code, GitOps, monitoring, and developer tooling. I also bring experience from software, data-driven, and interactive-development projects, plus international teamwork through an Erasmus+ exchange at the Faculty of Engineering, University of Porto.
 
-> Much of my day-to-day professional work is in private systems, so it is not reflected in the GitHub contribution graph. This profile focuses on public work, learning, and personal projects.
+> My work at SICK Mobilisis and on faculty projects is primarily maintained in private systems, so it is not reflected in the GitHub contribution graph. This profile focuses on public work, learning, and personal projects.
 
 ---
 
