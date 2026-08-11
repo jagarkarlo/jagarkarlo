@@ -53,8 +53,10 @@ My interests are platform engineering, infrastructure as code, GitOps, monitorin
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [Azure DevOps Challenge](https://github.com/jagarkarlo/devops-challenge) | Reproducible Azure VM and AKS delivery project with Terraform, Docker, Kubernetes, Traefik, CI validation, workload probes, and non-root container hardening. | Azure, Terraform, Docker, Kubernetes, GitHub Actions |
 | [SDN Security Aspects](https://github.com/jagarkarlo/SDN-security-aspects) | Software-defined networking security lab with ACL enforcement, DDoS detection, OpenFlow control, and a real-time event dashboard. | Python, Ryu, OpenFlow, Mininet, REST API |
-| [Copilot Knowledge Base](https://github.com/jagarkarlo/copilot-knowledge-base) | A local MCP server for durable Markdown knowledge and SQLite full-text retrieval in Copilot workflows. | TypeScript, MCP, SQLite |
+
+More public projects are being prepared from personal and university work after their documentation and content boundaries have been reviewed.
 
 ---
 
