@@ -53,6 +53,7 @@ My interests are platform engineering, infrastructure as code, GitOps, monitorin
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [GitLab Jira Context MCP](https://github.com/jagarkarlo/gitlab-jira-context-mcp) | Local MCP server for GitLab delivery context, Jira investigation and confirmed work tracking, with optional Confluence and Grafana integrations. | TypeScript, MCP, REST APIs, Jira, GitLab, Grafana |
 | [Azure DevOps Challenge](https://github.com/jagarkarlo/devops-challenge) | Reproducible Azure VM and AKS delivery project with Terraform, Docker, Kubernetes, Traefik, CI validation, workload probes, and non-root container hardening. | Azure, Terraform, Docker, Kubernetes, GitHub Actions |
 | [SDN Security Aspects](https://github.com/jagarkarlo/SDN-security-aspects) | Software-defined networking security lab with ACL enforcement, DDoS detection, OpenFlow control, and a real-time event dashboard. | Python, Ryu, OpenFlow, Mininet, REST API |
 
